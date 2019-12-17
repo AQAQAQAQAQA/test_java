@@ -25,8 +25,9 @@ public class excel_util {
         String columns[] = { "kv" };
         wb = readExcel(filePath);
         if (wb != null) {
-            // 用来存放表中数据在 测试修改
+            // 用来存放表中数据在 测试修改1
             //测试新增
+            //测试新增2
             list = new ArrayList<Map<String, String>>();
             // 获取第一个sheet
             sheet = wb.getSheetAt(0);
