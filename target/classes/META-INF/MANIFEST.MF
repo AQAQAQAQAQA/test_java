@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: poi-ooxml-schemas-3.17.jar stax-api-1.0.1.jar commons-code
+ c-1.10.jar xmlbeans-2.6.0.jar commons-collections4-4.1.jar poi-3.17.j
+ ar poi-ooxml-3.17.jar curvesapi-1.04.jar jxl-2.6.10.jar log4j-1.2.14.
+ jar
+Main-Class: excel_util
+
